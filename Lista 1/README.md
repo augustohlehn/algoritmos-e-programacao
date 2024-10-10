@@ -4,7 +4,7 @@
 - Augusto Henrique Lehnen
 
 ## Objetivo:
-Este trabalho tem como objetivo fazer a lista de exercícios proposto pela professora.
+Este trabalho tem como objetivo fazer a lista de exercícios proposta pela professora Rossana.
 
 ## Comentários:
 Cada exercício proposto pela professora está em um arquivo definido pelo número.
