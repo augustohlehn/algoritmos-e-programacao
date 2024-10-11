@@ -1,3 +1,5 @@
+# Disciplina: Algoritmos e Programação: Fundamentos
+
 # Tarefa: Lista de Exercícios 1
 
 ## Autor:
