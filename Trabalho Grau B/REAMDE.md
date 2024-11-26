@@ -2,8 +2,10 @@
 
 # Tarefa: Trabalho Grau B
 
-## Autor:
+## Autores:
 - Augusto Henrique Lehnen
+- Bruno Malta
+- Pedro Henrique Bassani
 
 ## Objetivo:
 Este trabalho tem como objetivo fazer o exercício proposto para a avaliação do trabalho do Grau B.
